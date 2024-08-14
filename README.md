@@ -40,3 +40,6 @@
 - JPA
 - Mybatis
 - MariaDB
+- Javascript
+- Typecript
+- NextJS
