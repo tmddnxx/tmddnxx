@@ -1,47 +1,76 @@
-# 안녕하세요 👋 개발자 **이승우**입니다.
+# 👋 안녕하세요, 돈이되는 코드를 지향하는 개발자 **이승우**입니다.
 
 ---
 
-### 🚀 다양한 경험을 중시하는 개발자  
-- 항상 새로운 산업 분야와 기술을 두려워하지 않고 도전합니다.  
-- 필요하거나 만들고 싶은 서비스가 있으면 직접 구현합니다.
+Product 자체에 집중하는 개발자입니다.  
+기획부터 개발, 운영까지 참여하여 실제 비즈니스 가치를 만드는 일에 보람을 느낍니다.
 
-### 🛠 문제 해결을 해나가는 개발자  
-- 개발자는 단순 코딩이 아닌, 문제 자체를 해결하는 사람이라 생각합니다.  
-- 일상생활에 도움을 주거나 문제 해결에 집중합니다.
+Spring Boot 기반의 B2C 서비스를 런칭하고, RabbitMQ와 ECS를 도입해 병렬성과 응답속도를 개선한 바 있습니다.
 
----
-
-### 🌟 개발자로서의 강점
-
-| 💡 습득력  | ⚡ 문제해결능력 | 🔍 호기심 | 🎯 흥미 |
-|----------|--------------|---------|--------|
-| 다양한 기술을 빠르게 습득하여 프로젝트에 적용합니다. | 문제 상황과 원인을 빠르게 파악하여 해결합니다. | 모르는 문제는 질문하고 찾아보며 이해하려 노력합니다. | 개발에 흥미를 느끼고 꾸준히 공부하며 성장합니다. |
+장애 발생 시 원인 분석 → 복구 프로세스 → 재발 방지까지 주도적으로 해결하며,  
+문제 해결에 책임감을 가지고 임합니다.
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ Skills
+
+### Programming Languages
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Springboot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="JPA" src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Mybatis" src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <br/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="JSP" src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="JPA" src="https://img.shields.io/badge/JPA-0C4B33?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Mybatis" src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
+</p>
+
+### Databases & Storage
+
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### Cloud & Infrastructure
+
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### DevOps & CI/CD
+
+<p>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="AWS CodeDeploy" src="https://img.shields.io/badge/AWS_CodeDeploy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### Monitoring & Logging
+
+<p>
+  <img alt="AWS CloudWatch" src="https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### Messaging & Event Streaming
+
+<p>
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img alt="Redis Pub/Sub" src="https://img.shields.io/badge/Redis_PubSub-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
 
 **📫 연락처**  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourgithub)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lsw8762@gmail.com)    
 
 ---
 
 _즐거운 개발 생활 되세요!_
-
