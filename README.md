@@ -1,14 +1,17 @@
-# 👋 안녕하세요, 돈이되는 코드를 지향하는 개발자 **이승우**입니다.
+# 👋 안녕하세요, 돈이 되는 코드를 지향하는 개발자 **이승우**입니다.
 
----
+<div align="center">
 
-Product 자체에 집중하는 개발자입니다.  
+🚀 **Product 자체에 집중하는 개발자**  
 기획부터 개발, 운영까지 참여하여 실제 비즈니스 가치를 만드는 일에 보람을 느낍니다.
 
-Spring Boot 기반의 B2C 서비스를 런칭하고, RabbitMQ와 ECS를 도입해 병렬성과 응답속도를 개선한 바 있습니다.
+⚙️ Spring Boot 기반 B2C 서비스 런칭 및 RabbitMQ, ECS 도입을 통한  
+병렬성과 응답속도 개선 경험 보유
 
-장애 발생 시 원인 분석 → 복구 프로세스 → 재발 방지까지 주도적으로 해결하며,  
-문제 해결에 책임감을 가지고 임합니다.
+🛠 장애 발생 시 원인 분석 → 복구 프로세스 → 재발 방지까지  
+주도적으로 문제 해결에 책임감을 가지고 임합니다.
+
+</div>
 
 ---
 
@@ -68,8 +71,9 @@ Spring Boot 기반의 B2C 서비스를 런칭하고, RabbitMQ와 ECS를 도입�
 
 ---
 
-**📫 연락처**  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lsw8762@gmail.com)    
+## 📫 연락처
+
+- 이메일: lsw8762@gmail.com  
 
 ---
 
